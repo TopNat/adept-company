@@ -1,0 +1,15 @@
+.addCompanyForm{
+   
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;   
+    margin-top: 5px;
+}
+.addCompanyForm_close{
+    width: 150px;
+    background-color: #fff;
+}
+.addCompanyForm_open{
+    margin-top: 5px;
+}

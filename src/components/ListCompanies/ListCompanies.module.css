@@ -1,0 +1,37 @@
+.listCompanies__item{
+    display: flex;
+    justify-content: space-between;
+    overflow: auto;
+}
+.listCompanies__item_select{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F4F5F6;
+}
+.listCompanies__item_width {
+    width: 50%;
+    box-sizing: border-box;
+}
+.listCompanies{
+    height: 60%;   
+}
+.listCompanies__list{
+    height: 75%;   
+    overflow: auto;
+    padding-right: 5px;
+}
+.addCompanyForm{
+   
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;   
+    margin-top: 5px;
+}
+.addCompanyForm_close{
+    width: 150px;
+    background-color: #fff;
+}
+.addCompanyForm_open{
+    margin-top: 5px;
+}
